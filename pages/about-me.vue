@@ -15,7 +15,7 @@
       </div>
 
       <!-- focused section content -->
-      <div id="section-content" class="hidden lg:block w-full h-full border-right">
+      <div id="section-content" class="hidden lg:block w-[300px] h-full border-right">
 
         <!-- title -->
         <div id="section-content-title" class="hidden lg:flex items-center min-w-full">
@@ -42,7 +42,7 @@
 
         <!-- contact -->
         <div id="section-content-title-contact" class="flex items-center min-w-full border-top">
-          <img id="section-arrow-menu" src="/icons/arrow.svg" alt="" class="section-arrow mx-3 open">
+          <img id="section-arrow-menu" src="/icons/arrow.svg" alt="" class="section-arrow mx-1 open">
           <p v-html="config.dev.contacts.direct.title" class="font-fira_regular text-white text-sm"></p>
         </div>
         <div id="contact-sources" class="hidden lg:flex lg:flex-col my-2">

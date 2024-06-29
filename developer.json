@@ -1,7 +1,7 @@
 {
-    "name": "Micheal Weaver",
-    "logo_name": "micheal-weaver",
-    "role": "Front-end developer",
+    "name": "Adee Shaikh",
+    "logo_name": "adee-shaikh",
+    "role": "A Web developer",
     "about": {
         "sections": {
             "professional-info": {
@@ -10,15 +10,15 @@
                 "info": {
                     "experience": {
                         "title": "experience",
-                        "description": "<br>Over the past 5 years, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>With extensive experience in web development, I have honed my technical skills across multiple roles. At Neuropal.in, I developed AI-driven solutions for mental health, enhancing my expertise in AI and web technologies. During my internship at DataCrush Analytics, I contributed to impactful projects like  Sajivani Banquet,  datacrushanalytics.com and more , collaborating with cross-functional teams to deliver high-performance websites. At LearnyFox Studio, I specialized in building user-friendly, responsive websites. My technical skills include proficiency in HTML/ CSS, JavaScript, ReactJS, NextJS, MYSQL, Solidity, NodeJS, and Python. Additionally, my interest in Web3 and blockchain technology drives me to explore and innovate in the realm of decentralized technologies."
                     },
                     "hard-skills": {
                         "title": "hard-skills",
-                        "description": "<br>As a front-end developer, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I have developed a robust set of hard skills through diverse web development roles. My expertise includes HTML, CSS, JavaScript, and frameworks like ReactJS and NextJS. I am proficient in backend technologies such as NodeJS and databases like MySQL. My experience with Solidity and blockchain technology fuels my interest in Web3, enabling me to contribute to decentralized applications. I am skilled in Python for scripting and AI projects, having developed AI-driven solutions at Neuropal.in. My work emphasizes creating user-friendly, responsive websites, as demonstrated during my tenure at LearnyFox Studio and DataCrush Analytics, where I delivered high-performance web solutions."
                     },
                     "soft-skills": {
                         "title": "soft-skills",
-                        "description": "<br>I bring more than Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br><br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I possess a strong set of soft skills cultivated through various professional experiences. My roles have honed my teamwork and collaboration abilities, particularly in cross-functional settings at DataCrush Analytics and LearnyFox Studio. I excel in problem-solving, demonstrated by developing AI-driven solutions at Neuropal.in and addressing client needs effectively. My communication skills are pivotal in liaising with stakeholders to ensure project alignment and success. I am adaptable, quickly learning new technologies and methodologies to stay current in the fast-evolving tech landscape. My entrepreneurial mindset drives me to innovate continuously, and my passion for technology fuels my proactive approach to tackling challenges and delivering high-quality results."
                     }
                 }
             },
@@ -28,18 +28,18 @@
                 "info": { 
                     "bio": {
                         "title": "bio",
-                        "description": "<br> About me <br> I have 5 years of experience in web development lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  nulla pariatur. Excepteur sint occaecat  officia deserunt mollit anim id est laborum."
+                        "description": "<br> About me <br> I'm Adee Shaikh, a 20-year-old Front-end Web Developer and co-founder of Jade Studios. With a passion for Web3, blockchain, and AI, I specialize in creating intuitive web applications that meet client needs. Currently pursuing a BSc in Computer Science, I immerse myself in AI and strive to advance decentralized technologies. My journey into technology began with a fascination for digital innovations, fostering strong problem-solving skills and a deep understanding of client requirements through diverse projects. Certified as a Marketing Insider, I enjoy coding and entrepreneurship, driven by a genuine love for technology and a commitment to innovation."
                     },
                     "interests": {
                         "title": "interests",
-                        "description": "<br>I am constantly learning and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I am deeply passionate about Web3, blockchain, and AI, continually expanding my expertise in these transformative technologies. My interests also encompass web development, where I enjoy creating intuitive, user-centric applications. Additionally, I am fascinated by digital marketing strategies and entrepreneurial ventures, always eager to innovate and explore new opportunities in the tech world."
                     },
                     "education": {
                         "title": "education",
-                        "description": "<br>I have always been passionate about lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+                        "description": "<br>I am currently pursuing a BSc in Computer Science at the Ashoka Center for Business and Computer Studies, where I maintain a CGPA of 8.20. My education has provided a strong foundation in artificial intelligence, web development, and blockchain technology. Previously, I completed my HSC at MAC College of Arts Commerce and Science, and my ICSE at Ryan International School, where I developed a keen interest in technology and coding.",
                         "files": {
-                            "high-school": "I have been in 'Las viñas'...",
-                            "university": "The university..."
+                            "high-school": "I have been in 'Ryan International School'...",
+                            "university": "Pune University"
                         }
                     }
                 }
@@ -49,12 +49,12 @@
                 "icon": "icons/info-hobbies.svg",
                 "info": {
                     "sports": {
-                        "title": "sports",
-                        "description": "<br>I am an avid sports enthusiast and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "title": "Reading",
+                        "description": "<br>I have a profound love for reading, whether it's books, articles, or other forms of written content. I am an avid fan of art, appreciating various forms and expressions. Good journalism and quality writing captivate me, and I enjoy exploring diverse topics through these mediums. These interests not only enrich my knowledge but also inspire my creativity and critical thinking."
                     },
                     "favorite-games": {
                         "title": "favorite-games",
-                        "description": "<br>I am a passionate gamer with Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                        "description": "<br>I love playing Valorant, immersing myself in its strategic gameplay and dynamic action. Additionally, I've enjoyed playing CS:GO and PUBG, appreciating the competitive nature and teamwork involved in these games. These experiences not only provide entertainment but also enhance my strategic thinking and collaborative skills."
                     }
                 }
             }
@@ -64,25 +64,25 @@
         "direct": {
             "title": "contacts",
             "sources": {
-                "email": "user@gmail.com",
-                "phone": "+3598246359"
+                "email": "adee@jadestudios.in",
+                "phone": "+91 8329131197"
             }
         },
         "social": {
             "github": {
                 "title": "Github profile",
                 "url": "https://github.com/",
-                "user": "username"
+                "user": "adee1455"
             },
             "facebook": {
                 "title": "Facebook profile",
                 "url": "https://facebook.com/",
-                "user": "username"
+                "user": "Adee-Shaikh"
             },
             "twitter": {
                 "title": "Twitter account",
                 "url": "https://twitter.com/",
-                "user": "username"
+                "user": "adees_eth"
             }
         },
         "find_me_also_in": {
@@ -91,7 +91,7 @@
                 "youtube": {
                     "title": "YouTube channel",
                     "url": "https://www.youtube.com/",
-                    "user": "username"
+                    "user": ""
                 },
                 "gurushots": {
                     "title": "GuruShots profile",
@@ -101,59 +101,59 @@
                 "instagram": {
                     "title": "Instagram account",
                     "url": "https://instagram.com/",
-                    "user": "username"
+                    "user": "shaikh__adee"
                 },
                 "twitch": {
                     "title": "Twitch profile",
                     "url": "https://twitch.com/",
-                    "user": "username"
+                    "user": "adee1455"
                 }
             }
         }
     },
     "gists": {
-        "1": "83861a67e377633ee8368df01ee3a355",
-        "2": "694c1f32332788a2ac7f37b09e5aa40e"
+        "1": "092fb9cc523e373995e6d2d10e8e8e8b",
+        "2": "d454ba3b641fde0ad9b1c247006549ec"
     },
     "projects": {
         "1": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "Jade-Studios",
+            "description": "Co-founded Jade Studios to deliver top-notch web development, digital marketing, AI, and blockchain services.",
             "img": "/images/projects/ui-animations2.png",
-            "tech": ["Flutter"],
-            "url": "https://github.com/"
+            "tech": ["React"],
+            "url": "https://jadestudios.in/"
         },
         "2": {
-            "title": "_ai-resources",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "Pick-Umrah",
+            "description": "Developed Pick-Umrah, a comprehensive platform streamlining Umrah travel planning and booking.",
             "img": "/images/projects/ai-resources.png",
-            "tech": ["Gatsby"],
-            "url": "https://github.com/"
+            "tech": ["React","HTML"],
+            "url": "https://github.com/adee1455/pickUmrahBuild"
         },
         "3": {
-            "title": "_worldmap",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "neuropal",
+            "description": "Created website for a AI-driven Mental Health startup using advanced technologies",
             "img": "/images/projects/worldmap.png",
-            "tech": ["Angular"],
-            "url": "https://github.com/"
+            "tech": ["React"],
+            "url": "https://neuropal.in/"
         },
         "4": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "_Blue-news-Extension",
+            "description": "Built the Blue-news-Extension, delivering real-time news updates and personalized content.",
             "img": "/images/projects/ui-animations.png",
             "tech": ["React"],
-            "url": "https://github.com/"
+            "url": "https://github.com/adee1455/BlueNews-Extension"
         },
         "5": {
             "title": "_tetris-game",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "description": "Developed a classic Tetris game with modern twists and engaging gameplay.",
             "img": "/images/projects/tetris-game.png",
             "tech": ["React"],
             "url": "https://github.com/"
         },
         "6": {
             "title": "_ethereum",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "description": "Explored Ethereum's blockchain technology to develop decentralized applications.",
             "img": "/images/projects/ethereum.png",
             "tech": ["Vue"],
             "url": "https://github.com/"
