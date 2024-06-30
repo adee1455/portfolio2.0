@@ -1,7 +1,6 @@
 const config = require('./developer.json')
 const siteTitle = `${config.name} | ${config.role}`
 
-
 /*
  * Nuxt 3 Config File
  Usage: https://nuxt.com/docs/api/configuration/nuxt-config
