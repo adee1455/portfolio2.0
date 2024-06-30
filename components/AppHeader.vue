@@ -1,7 +1,7 @@
 <template>
     <header id="navbar" class="w-full hidden lg:flex flex-col">
       <nav class="w-full flex justify-between border-bot">
-        <github-corner url="https://github.com/alexdeploy/developer-portfolio-v2" />
+        <github-corner url="https://github.com/adee1455/" />
           <div class="flex">
             <NuxtLink id="nav-logo" to="/">
               {{ config.dev.logo_name }}
@@ -19,10 +19,12 @@
               _projects
             </NuxtLink>
           </div>
-
+         <div>
           <NuxtLink id="nav-link-contact" to="/contact-me" :class="{ active: isActive('/contact-me')}">
             _contact-me
           </NuxtLink>
+         </div>
+         
       
       </nav>
 
