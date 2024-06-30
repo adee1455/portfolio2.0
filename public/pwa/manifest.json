@@ -1,7 +1,7 @@
 {
-    "name": "Portfolio for Developers Concept v2",
+    "name": "Adee Shaikh's Portfolio Website",
     "short_name": "Developer Portfolio",
-    "description": "A awesome portfolio template for developers",
+    "description": "A portfolio website for adee shaikh",
     "start_url": "https://developer-portfolio-v1.netlify.app/",
     "display": "standalone",
     "orientation": "portrait",

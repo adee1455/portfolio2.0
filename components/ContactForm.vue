@@ -17,7 +17,7 @@
 </template>
 
 <script>
-
+import emailjs from 'emailjs-com';
 
 export default {
     name: 'ContactForm',
@@ -36,21 +36,27 @@ export default {
         }
     },
     mounted() {
-        document.getElementById("contact-form").addEventListener("submit", function(event) {
+        document.getElementById("contact-form").addEventListener("submit", this.sendEmail);
+    },
+    methods: {
+        sendEmail(event) {
             event.preventDefault();
-            const name = document.querySelector('input[name="name"]').value;
-            const email = document.querySelector('input[name="email"]').value;
-            const message = document.querySelector('textarea[name="message"]').value;
-            
-            // Here the code to send the email
-            
-        });
+            const form = event.target;
+
+            emailjs.sendForm('service_zta3i1l', 'template_bjiuqtl', form, 'WmvzZk04bBxBDOooM')
+                .then((result) => {
+                    console.log('Email successfully sent!', result.status, result.text);
+                    alert('Message sent successfully!');
+                }, (error) => {
+                    console.error('Failed to send email. Error: ', error);
+                    alert('Failed to send message. Please try again later.');
+                });
+        }
     }
 }
 </script>
 
 <style>
-
 form {
     @apply font-fira_retina text-menu-text
 }
