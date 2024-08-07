@@ -138,24 +138,24 @@
             "url": "https://neuropal.in/"
         },
         "4": {
+            "title": "DeFile",
+            "description": "A Decentralized File locking/storing platform to store files on the blockchain.",
+            "img": "/images/projects/ui-animations.png",
+            "tech": ["React,Next,Solidity"],
+            "url": "https://github.com/adee1455/DeFile"
+        },
+        "5": {
             "title": "_Blue-news-Extension",
             "description": "Built the Blue-news-Extension, delivering real-time news updates and personalized content.",
             "img": "/images/projects/ui-animations.png",
             "tech": ["React"],
             "url": "https://github.com/adee1455/BlueNews-Extension"
         },
-        "5": {
+        "6": {
             "title": "_tetris-game",
             "description": "Developed a classic Tetris game with modern twists and engaging gameplay.",
             "img": "/images/projects/tetris-game.png",
             "tech": ["React"],
-            "url": "https://github.com/"
-        },
-        "6": {
-            "title": "_ethereum",
-            "description": "Explored Ethereum's blockchain technology to develop decentralized applications.",
-            "img": "/images/projects/ethereum.png",
-            "tech": ["Vue"],
             "url": "https://github.com/"
         }
     }
